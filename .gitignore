@@ -1,0 +1,16 @@
+# macOS
+.DS_Store
+
+# spec-workflow 初始化目录
+.spec-workflow/
+
+# backend - 推送空目录，忽略内容
+backend/*
+!backend/.gitkeep
+
+# frontend - 推送空目录，忽略内容
+frontend/*
+!frontend/.gitkeep
+
+# PM 本地需求文档
+pm/AI协作思维导图-需求文档.md
