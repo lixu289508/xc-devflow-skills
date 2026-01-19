@@ -1,3 +1,5 @@
+[English](readme.md) | [中文](readme.zh.md)
+
 # xc-devflow-skills
 
 ## Project Overview
